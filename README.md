@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `yarn prettier`
 
-Runs prettier to all files.\
+Runs prettier to all files.
 
 ### `yarn test`
 
