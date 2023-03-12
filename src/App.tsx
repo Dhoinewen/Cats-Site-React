@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Init</h1>
+      <h1 className={"underline text-4xl"}>Init</h1>
     </div>
   );
 }
